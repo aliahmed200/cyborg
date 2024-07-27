@@ -14,7 +14,7 @@ export default {
         thirdText: "#666",
       },
       backgroundImage: {
-        banner: `url('src/assets/banner-bg.jpg')`,
+        banner: `url('/src/assets/banner-bg.jpg')`,
       },
       fontFamily: {
         poppins: ["Poppins", "sans-serif"],
